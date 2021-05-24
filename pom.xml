@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.javatpoint</groupId>
-  <artifactId>webappuber</artifactId>
+  <artifactId>webimran</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>webappuber Maven Webapp</name>
+  <name>webimran Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -36,6 +36,6 @@
 
   </dependencies>
   <build>
-    <finalName>webappuber</finalName>
+    <finalName>webimran</finalName>
   </build>
 </project>
